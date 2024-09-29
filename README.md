@@ -1,0 +1,2 @@
+# Assignment 7 - C Programming
+This project contains all the tasks in assignment 7 in C programming course in Standard Embedded Diploma by Eng. Mohamed Tarek. The tasks are 8 and each task has its own function and description. The tasks are about Embedded c practicing: macros & bitwise operations
